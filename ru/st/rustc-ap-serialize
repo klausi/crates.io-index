@@ -106,3 +106,10 @@
 {"name":"rustc-ap-serialize","vers":"106.0.0","deps":[],"cksum":"bcc82f4cc2d668b812df9c00f789f79fc1066128b422abc2c510ce30441b1432","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-serialize","vers":"107.0.0","deps":[],"cksum":"9e6fba7b1b82ebef0dd2b13f143696caa8a9f3eee67d068ef3f295b193e8ffc2","features":{},"yanked":false,"links":null}
 {"name":"rustc-ap-serialize","vers":"108.0.0","deps":[],"cksum":"50a598c1a414e7db0ca0f9921f881be14e57c16bc8bacb71e2c129f3bd244302","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"109.0.0","deps":[],"cksum":"08de3c60d0ce4e1dac157c70e34bb6b2a6bcbdf79e1a369b766719bb7a0adbcb","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"110.0.0","deps":[],"cksum":"a2e47cf949f06b0c7ab7566c2f69d49f28cb3ecf1bb8bf0bda48b1ba5b7945ae","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"111.0.0","deps":[],"cksum":"f58ee6a9ce85c786416be24851252745ad4e3d97342104c1603732a3f7715d95","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"112.0.0","deps":[],"cksum":"8217d9c1af29d6ddfc55387fe64fc7e135f371d098ca5f4ad2485b4c2f09bb39","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"113.0.0","deps":[],"cksum":"2104a55a87d65cba8a845656f1f19a35da52af403863cd2a4bd5876ba522d879","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"114.0.0","deps":[],"cksum":"4e5ff28c5e4e0075c65d7d246994082541636d5ef2c5a4cacf2d4b52757dc991","features":{},"yanked":false,"links":null}
+{"name":"rustc-ap-serialize","vers":"115.0.0","deps":[],"cksum":"c7aa6b271d1af5ba0532c1d409e77fa599e87971c0f6f431886122bc269eeb29","features":{},"yanked":false,"links":null}
